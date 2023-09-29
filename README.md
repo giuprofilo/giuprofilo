@@ -8,7 +8,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
 
 I'm a Full Stack Developer from Brasil
 
@@ -21,7 +21,9 @@ I'm a Full Stack Developer from Brasil
 <div id="badges">
   <a href="https://www.linkedin.com/in/giullia-profilo-8aba71139/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
+  </a> 
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giulliaprofilo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ---
@@ -48,5 +50,6 @@ I'm a Full Stack Developer from Brasil
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuprofilo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 
 
