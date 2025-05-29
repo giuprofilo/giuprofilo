@@ -8,15 +8,6 @@
 
 ---
 
-### :woman_technologist: About Me : 
-
-I'm a Full Stack Developer from Brasil
-
-🔭 I’m currently working on a JavaScript (ES6), React.js, Express, Node.js, TailwindCSS and MongoDB website project
-
-⚡ Fun fact: I'm really good at making cakes and i thought about becoming a baker
-
-
 🌐 Socials:
 <div id="badges">
   <a href="https://www.linkedin.com/in/giullia-profilo-8aba71139/">
